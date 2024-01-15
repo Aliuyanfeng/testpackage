@@ -1,4 +1,4 @@
-package testpackage
+package test
 
 // Hello returns a greeting.
 func Hello() string {
